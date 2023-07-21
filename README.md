@@ -8,3 +8,4 @@
 - make nest project: `nest new nestjs-api-toturial`
 - install dependencies: `yarn install`
 - build and watch: `yarn start:dev`
+- make module: `nest g module auth`
