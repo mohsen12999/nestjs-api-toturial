@@ -10,3 +10,5 @@
 - build and watch: `yarn start:dev`
 - make module: `nest g module auth`
 - run docker compose: `docker-compose up dev-db -d`
+- add prisma cli: `yarn add -D prisma`
+- add prisma client: `yarn add @prisma/client`
