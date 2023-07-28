@@ -9,3 +9,4 @@
 - install dependencies: `yarn install`
 - build and watch: `yarn start:dev`
 - make module: `nest g module auth`
+- run docker compose: `docker-compose up dev-db -d`
