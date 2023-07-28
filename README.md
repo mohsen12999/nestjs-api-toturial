@@ -14,3 +14,6 @@
 - add prisma client: `yarn add @prisma/client`
 - run prisma cli: `npx prisma init`
 - run migration: `npx prisma migrate dev`
+- run prisma studio to see database data in browser: `npx prisma studio`
+- create prisma module: `nest g module prisma`
+- add service for prisma module: `nest g service prisma --no-spec`
