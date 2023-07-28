@@ -12,3 +12,4 @@
 - run docker compose: `docker-compose up dev-db -d`
 - add prisma cli: `yarn add -D prisma`
 - add prisma client: `yarn add @prisma/client`
+- run prisma cli: `npx prisma init`
