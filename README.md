@@ -19,3 +19,4 @@
 - add service for prisma module: `nest g service prisma --no-spec`
 - add class validator package: `yarn add class-validator class-transformer`
 - add argon for hashing: `yarn add argon2`
+- make new script for restart and migrate database: `yarn db:dev:restart`
