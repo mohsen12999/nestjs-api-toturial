@@ -18,3 +18,4 @@
 - create prisma module: `nest g module prisma`
 - add service for prisma module: `nest g service prisma --no-spec`
 - add class validator package: `yarn add class-validator class-transformer`
+- add argon for hashing: `yarn add argon2`
