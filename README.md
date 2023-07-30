@@ -21,3 +21,5 @@
 - add argon for hashing: `yarn add argon2`
 - make new script for restart and migrate database: `yarn db:dev:restart`
 - add nest config package: `yarn add @nestjs/config`
+- install passport and jwt: `yarn add @nestjs/passport passport @nestjs/jwt passport-jwt`
+- install passport type: `yarn add -D @types/passport-jwt`
