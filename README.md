@@ -20,3 +20,4 @@
 - add class validator package: `yarn add class-validator class-transformer`
 - add argon for hashing: `yarn add argon2`
 - make new script for restart and migrate database: `yarn db:dev:restart`
+- add nest config package: `yarn add @nestjs/config`
